@@ -12,6 +12,14 @@ body{
     height: 100vh;
 }
 
+body{
+    overflow: hidden;
+}
+
+body *{
+    touch-action: none;
+}
+
 
 .calculator{
     width: 287px;
