@@ -5,12 +5,12 @@
 }
 
 body{
+    position: fixed;
     background-color: #1f1f1f;
     display: flex;
     justify-content: center;
     align-items: center;
     height: 100vh;
-    position: fixed;
 }
 
 
